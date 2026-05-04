@@ -63,7 +63,7 @@ Tailor your existing cover letter to match job requirements.
 
 ```bash
 git clone https://github.com/Matthew-J-Lew/resume-tailor-app
-cd resume-tailor
+cd resume-tailor-app
 ```
 
 ### 2. Install Dependencies
